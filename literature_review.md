@@ -1,4 +1,4 @@
-## An Empirical Investigation into the Nature of Test Smells
+## [edit] An Empirical Investigation into the Nature of Test Smells
 ```
 @inproceedings{tufano2016empirical,
   title={An empirical investigation into the nature of test smells},
